@@ -163,13 +163,13 @@ The uploaded CSV must contain the same input features used during training and t
 
 ### Live application
 
-**Streamlit App URL:** ADD_YOUR_STREAMLIT_APP_URL_HERE
+**Streamlit App URL:** https://dry-bean-classifier-g5s9z72nqhga4j8xiel3pc.streamlit.app/
 
 ## 12. GitHub Repository
 
 The repository contains the notebook, application source code, dependencies, saved models, test dataset, and project documentation.
 
-**GitHub Repository URL:** ADD_YOUR_GITHUB_REPOSITORY_URL_HERE
+**GitHub Repository URL:** https://github.com/2026aj05828-dev/dry-bean-classifier
 
 ### Project structure
 
